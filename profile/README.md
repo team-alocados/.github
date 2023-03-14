@@ -1,12 +1,4 @@
-# Hi there, We are Alocados! 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+<img src="https://user-images.githubusercontent.com/47492535/224875520-0e5a236d-c2eb-4c30-9724-3234a9260dfa.png" height="240" align="center" />
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
