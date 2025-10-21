@@ -16,5 +16,4 @@
 - 원티드 [[링크](https://www.wanted.co.kr/company/29418)]
 - 로켓펀치 [[링크](https://www.rocketpunch.com/companies/alocados/jobs)]
 - 점핏 [[링크](https://www.jumpit.co.kr/search?keyword=알로카도스)]
-- 프로그래머스 [[링크](https://career.programmers.co.kr/job?page=1&order=recent&company_ids=8452&job_category_ids=4)]
 
